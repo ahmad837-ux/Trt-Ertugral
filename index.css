@@ -1,0 +1,75 @@
+.en
+{
+	background-color: #8c40b8
+
+}
+#text
+{
+	text-align: center;
+	padding-top: 3%;
+}
+.esra
+{
+	background-color: #ffda1f
+}
+.tur
+{
+	color: white;
+	background-color: #5e3c17
+
+}
+#rtr
+{
+
+}
+.bamsi
+{
+	background-color: #8f8b86;
+}
+.doyan
+{
+	color: white;
+	background-color: #464747
+}
+.artuk
+{
+	background-color: #000000;
+	color: white;
+}
+#card
+{
+	padding-top: 10%;
+	padding-bottom: 5%;
+	padding-left: 10%;
+}
+
+
+body {
+  overflow-x: hidden;
+  background-color:#d41bf5;
+}
+
+
+#css
+{
+	color: white;
+	background-color: #8c40b8;
+	box-shadow: 1px 2px 1px 2px;
+
+}
+
+.slide
+{
+	padding-bottom:  5%;
+}
+.actor
+{
+	text-align: center;
+	text-decoration: underline;
+padding-bottom:10%;
+
+}
+#row
+{
+	background-color: #8c40b8;
+}
